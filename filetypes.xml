@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="Resources" type="AUTO_DETECTED" />
+      <mapping pattern="resources" type="AUTO_DETECTED" />
+      <mapping ext="exe" type="JavaFX" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="exe" type="JavaFX" />
+    </extensionMap>
+  </component>
+</application>
